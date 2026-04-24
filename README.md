@@ -20,3 +20,6 @@ Criar uma página de receita com layout organizado e estilizado.
 - Estilização com CSS
 - Organização de layout
 
+## 🌐 Acesse o projeto
+👉 https://andressadonrodrigues08.github.io/receita-bolo-cenoura/
+
